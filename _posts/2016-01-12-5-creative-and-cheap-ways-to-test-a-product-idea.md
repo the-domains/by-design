@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "You need smart, low-cost ways to conduct product market research. Here's where to start."
-datePublished: '2016-01-12T20:46:02.878Z'
-dateModified: '2016-01-12T20:45:38.522Z'
+datePublished: '2016-01-12T20:59:57.978Z'
+dateModified: '2016-01-12T20:59:49.200Z'
 title: 5 Creative (and Cheap) Ways to Test a Product Idea
 author: []
 authors: []
